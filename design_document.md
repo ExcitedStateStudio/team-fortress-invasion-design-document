@@ -62,7 +62,7 @@ A distinctive feature of the Team Fortress series are the classes. This game has
 ### Mechanics
 **shield** - only the commando has the shield, which reduces the damage by half and has 5 seconds of use and 12 seconds of cooldown.
 
-**grenades** - grenades can be thrown by pressing H and if you hold the key, they cook, exploding in you, but if done correctly, this can turn into a grenade jump. each class has a special grenade.
+**grenades** - grenades can be thrown by pressing H and if you hold the key, they cook, exploding on you, but if done correctly, this can turn into a grenade jump. each class has a special grenade.
 
 ### weapons
 **dual pistols** - used by recon only, the dual pistols fires laser toward the enemies.
