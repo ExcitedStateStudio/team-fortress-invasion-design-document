@@ -60,7 +60,7 @@ A distinctive feature of the Team Fortress series are the classes. This game has
 | the Sniper | 125 | 290 | Sniper rifle, laser rifle, melee, frag grenade, indicator grenade | add Wrangler's laser sight when he's scoped, pls:3 |
 
 ### Mechanics
-**shield** - some classes have the shield, which reduces the damage by half and has 5 seconds of use and 12 seconds of cooldown.
+**shield** - only the commando has the shield, which reduces the damage by half and has 5 seconds of use and 12 seconds of cooldown.
 
 **grenades** - grenades can be thrown by pressing H and if you hold the key, they cook, exploding in you, but if done correctly, this can turn into a grenade jump. each class has a special grenade.
 
