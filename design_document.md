@@ -50,7 +50,7 @@ A distinctive feature of the Team Fortress series are the classes. This game has
 | Name | HP | Speed (hu/s) | Equipment | Abilities |
 | ---- | -- | ------------ | --------- | ----------- |
 | the Recon | 125 | 400 | Dual pistols, melee, conclussion grenade, sticky grenade | double jump |
-| the Commando | 200 | 250 | Rocket launcher, J-stye, melee, frag grenade, nail grenade | (??) |
+| the Commando | 200 | 250 | Rocket launcher, J-stye, melee, frag grenade, nail grenade | Shield |
 | the Defender | 125 | 300 | Shotgun, frag grenade, melee, EMP grenade | build sentry guns, gain Technology upgrades such as increased sentry gun count, can unlock Welder technology, repair buildings |
 | the Medic | 150 | 320 | Plasma rifle, Repair Gun, frag grenade, heal grenade | heal, repair buildings, HP regeneration |
 | the Pyro | 150 | 290 | Flamethrower, shotgun, melee, frag grenade, gas can | immune to afterburn |
