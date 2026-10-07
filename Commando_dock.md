@@ -23,7 +23,7 @@ Laser-Designated Rocket Launcher
 CONCEPT 1
 DMG:80
 RANGE:768
-A grenade launcher that fires rockets that leave a green trail behind them. Falls and explodes 5 seconds after release. Cannot be blocked by a shield.
+A grenade launcher that fires rockets that leave a green trail behind them. Falls and explodes 5 seconds after release. Cannot be blocked by a shield. Shooting 1 rocket per second
 
 CONCEPT 2
 DMG:100
